@@ -1,0 +1,7 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/prulloac/devcontainer-features/pre-commit:1": {},
+    "ghcr.io/devcontainers/features/rust:1": {}
+  }
+}
